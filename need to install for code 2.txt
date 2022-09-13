@@ -1,0 +1,3 @@
+pip install requests
+pip install requests2
+pip install python-coinmarketcap
